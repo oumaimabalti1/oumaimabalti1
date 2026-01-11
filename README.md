@@ -18,9 +18,9 @@
 
 Hi, I'm **Oumaima**, I'm an IT student and a passionate **Developer** who enjoys building clean, modern, and elegant applications.  
 
-- 💻 Full-Stack Web & Mobile Developer  
-- 🌱 Always learning new technologies    
-- ✨ Turning ideas into real projects  
+- Full-Stack Web & Mobile Developer
+- Always learning new technologies    
+- Turning ideas into real projects  
 
 ---
 
@@ -52,7 +52,6 @@ Hi, I'm **Oumaima**, I'm an IT student and a passionate **Developer** who enjoys
 
 ---
 
-<p align="center">
-🌸 Thank you for visiting my profile 🌸  
-✨ Let’s build something beautiful together ✨
+<p align="center"> Thank you for visiting my profile 🌸  
+Let’s build something beautiful together 🎀
 </p>
