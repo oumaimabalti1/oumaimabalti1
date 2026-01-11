@@ -44,7 +44,7 @@ Hi, I'm **Oumaima**, I'm an IT student and a passionate **Developer** who enjoys
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack 💻
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,angular,react,nodejs,java,spring,flutter,kotlin&theme=light"/>
