@@ -16,7 +16,7 @@
 
 ### 🌸 About Me 🌸
 
-Hi, I'm **Oumaima**, I'm an IT student and a passionate **Developer** who enjoys building clean, modern, and elegant applications.  
+Hi, I'm **Oumaima**, I'm an engineering student and a passionate **Developer** who enjoys building clean, modern, and elegant applications.  
 
 - Full-Stack Web & Mobile Developer
 - Always learning new technologies    
