@@ -18,6 +18,7 @@
 
 Hi, I'm **Oumaima**, I'm an engineering student and a passionate **Developer** who enjoys building clean, modern, and elegant applications.  
 
+- IT Engineering student
 - Full-Stack Web & Mobile Developer
 - Always learning new technologies    
 - Turning ideas into real projects  
